@@ -1,0 +1,9 @@
+{
+  "device": "Orin",
+  "buffer_mib": 512,
+  "iterations": 20,
+  "read_gbs": 67.35,
+  "write_gbs": 65.2,
+  "copy_gbs": 96.15,
+  "memcpy_d2d_gbs": 97.11
+}
